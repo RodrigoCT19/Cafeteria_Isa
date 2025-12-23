@@ -109,8 +109,6 @@ Puedes agregar aquí capturas del proyecto dentro de una carpeta `docs/`:
 ---
 
 ## 👤 Autor
-
-**Rodrigo**  
 Proyecto académico - Universidad
 
 Si tienes sugerencias o comentarios, ¡bienvenidos!
